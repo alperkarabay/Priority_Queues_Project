@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/alper/CLionProjects/priority_queues/main.c
+dirent.h
+-
+stdlib.h
+-
+stdio.h
+-
+strings.h
+-
+
